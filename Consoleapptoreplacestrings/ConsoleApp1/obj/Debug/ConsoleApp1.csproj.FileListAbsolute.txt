@@ -1,0 +1,7 @@
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\anand.prakash\source\repos\Consoleapptoreplacestrings\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
